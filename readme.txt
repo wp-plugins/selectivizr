@@ -4,7 +4,7 @@ Donate link: http://www.ramoonus.nl
 Tags: html5, html, javascript, ie, internet explorer, css 3, css3, selectivizr
 Requires at least: 3.0.0
 Tested up to: 3.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8. 
 == Description ==
@@ -24,6 +24,9 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.3 = 
+* Added improved browser caching
+
 = 1.0.2 =
 * Updated Selectivizr to 1.0.2 ... javascript plugin and wordpress plugin version are now equal
 
