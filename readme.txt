@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: ramoonus
-Donate link: http://www.ramoonus.nl
-Tags: html5, html, javascript, ie, internet explorer, css 3, css3, selectivizr
+Contributors: Ramoonus
+Donate link: http://www.ramoonus.nl/donate/
+Tags: html5, javascript, internet explorer, css3, selectivizr
 Requires at least: 3.0.0
-Tested up to: 3.2
+Tested up to: 3.3.1
 Stable tag: 1.0.3
 
 selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8. 
