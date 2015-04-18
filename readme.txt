@@ -2,9 +2,9 @@
 Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl/donate/
 Tags: html5, javascript, internet explorer, css3, selectivizr
-Requires at least: 3.9
-Tested up to: 4.1
-Stable tag: 2.0.3
+Requires at least: 3.0
+Tested up to: 4.2
+Stable tag: 2.0.3.1
 
 selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8. 
 
@@ -25,6 +25,9 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 2.0.3.1 =
+* Bugfix, bug present since 2.0.2
+
 = 2.0.3 =
 * Updated Selectivizr to 1.0.3b
 
